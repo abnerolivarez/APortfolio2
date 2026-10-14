@@ -247,7 +247,7 @@ const projectData = {
         description:
             "Escape into your world. Premium sound meets lightweight, all-day comfort for an unmatched listening experience.",
 
-        technologies:
+        sound:
             [
                 "Bootstrap",
                 "Vanilla JavaScript",
