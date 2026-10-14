@@ -241,6 +241,27 @@ const projectData = {
 
     }
 
+
+    "Head Phone": {
+        id:5,
+        description:
+            "Escape into your world. Premium sound meets lightweight, all-day comfort for an unmatched listening experience.",
+
+        technologies:
+            [
+                "Bootstrap",
+                "Vanilla JavaScript",
+                "LocalStorage",
+                "HTML",
+                "CSS"
+            ],
+
+        img:"image/project4.jpg",
+        icon: "fa-solid fa-car",
+        link:"https://abnerolivarez.github.io/Javascript2-NewPortal/",
+
+    }
+
 };
 
 
