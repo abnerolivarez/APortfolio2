@@ -256,8 +256,8 @@ const projectData = {
                 "CSS"
             ],
 
-        img:"image/project4.jpg",
-        icon: "fa-solid fa-car",
+        img:"image/project5.jpg",
+        icon: "fa-solid fa-headphones",
         link:"https://abnerolivarez.github.io/Javascript2-NewPortal/",
 
     }
