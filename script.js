@@ -239,7 +239,7 @@ const projectData = {
         icon: "fa-solid fa-car",
         link:"https://abnerolivarez.github.io/Car-Rental-/index.html",
 
-    }
+    },
 
 
     "Head Phone": {
